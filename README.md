@@ -8,8 +8,8 @@ Python – 3.7.2
 Anaconda Navigator – 1.9.6 
 Jupyter Notebook – 5.7.4
 ## Libraries Used:
-Analyzing: Numpy, Pandas, Sci-kit Learn
-Visualization: Matplotlib, Seaborn
+* Analyzing: Numpy, Pandas, Sci-kit Learn
+* Visualization: Matplotlib, Seaborn
 
 Dataset : https://www.kaggle.com/c/titanic
 
